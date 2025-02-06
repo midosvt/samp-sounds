@@ -5,7 +5,7 @@ A lot of sounds aren't listed in the official SA-MP/Open.mp wiki, like at [this 
 There used to be an old Pastebin link that contained them, but it got deleted. And that's why, again, we're making this.
 
 ## Use
-These sounds can be used with [`PlayerPlaySound`](https://www.open.mp/th/docs/scripting/functions/PlayerPlaySound).
+These sounds can be used with [`PlayerPlaySound`](https://www.open.mp/docs/scripting/functions/PlayerPlaySound).
 
 Example:
 ```pawn
