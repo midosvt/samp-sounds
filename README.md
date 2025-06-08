@@ -74,7 +74,7 @@ ID | Category | Description
 | 670       | Event Music         | Girlfriend date success                                           |
 | 671 - 766 | Voice               | Voice lines (743 = Big Smoke's order)                             |
 | 767 - 945 | Radio               | Bounce FM                                                         |
-| 946 - 999 | Radio               | SF-UR |
+| 946 - 999 | Radio               | SF-UR                                                             |
 
 1002 |  | Ceilng Vent
 1009 |  | Bonnet dent
