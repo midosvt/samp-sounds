@@ -19,6 +19,63 @@ PlayerPlaySound(playerid, 1130, 0.0, 0.0, 0.0);
 ## Sound IDs
 ID | Category | Description
 -- | -------- | -----------
+| 2 - 59    | Police Radio        | Police radio sounds                                               |
+| 66 - 134  | Radio Adverts       | Radio station adverts                                             |
+| 135 - 136 | Ambience            | Ventilation                                                       |
+| 137       | Interior Ambience   | Ammu-Nation interior                                              |
+| 138       | Interior Ambience   | Area 51 interior                                                  |
+| 139       | Event Music         | Awards ceremony music                                             |
+| 140       | Disco               | Rock                                                              |
+| 141       | Disco               | Let's Get Ready to Bumble (Bee Bee Gone) music                    |
+| 142       | Unknown / Duplicate | Same as 1185                                                      |
+| 143       | Interior Ambience   | Marco's Bistro music                                              |
+| 144       | Interior Ambience   | Diner music                                                       |
+| 145       | Unknown / Duplicate | Same as 1097                                                      |
+| 146       | Interior Ambience   | Casino music                                                      |
+| 147       | Disco               | Electro                                                           |
+| 148       | Plane Interior      | Plane interior humming                                            |
+| 149       | Unknown / Duplicate | Same as 1183                                                      |
+| 150       | Unknown / Duplicate | Same as 1068                                                      |
+| 151       | Ambience            | Fan                                                               |
+| 152       | Exterior Ambience   | Bar (outside?)                                                    |
+| 153       | Unknown / Duplicate | Same as 1062                                                      |
+| 154       | Ambience            | Ventilation                                                       |
+| 155 - 156 | Plane Interior      | Plane interior humming                                            |
+| 157       | Disco               | Hip-Hop                                                           |
+| 158       | Ambience            | Ventilation                                                       |
+| 159 - 160 | Event Ambience      | Horse race                                                        |
+| 161       | Unknown / Duplicate | Same as 1187                                                      |
+| 162       | Disco               | Hip-Hop                                                           |
+| 163       | Ambience            | Ventilation                                                       |
+| 164 - 165 | Ambience            | Aircraft carrier lift                                             |
+| 166       | Event Ambience      | Riot                                                              |
+| 167       | Weather             | Rain                                                              |
+| 168       | Plane Interior      | Plane interior                                                    |
+| 169       | Event Ambience      | Stunt race                                                        |
+| 170       | Interior Ambience   | Strip club                                                        |
+| 171       | Disco               | Rock (Guns N' Roses - *Welcome To The Jungle*)                    |
+| 172       | Event Ambience      | Some dark theme                                                   |
+| 173       | Ambience            | Conveyor belt?                                                    |
+| 174       | Ambience            | Water                                                             |
+| 175       | Disco               | General disco                                                     |
+| 176       | Music               | SA intro music                                                    |
+| 177 - 179 | Disco               | General disco                                                     |
+| 179       | Event Music         | Lowrider challenge                                                |
+| 180       | Event Music         | Lowrider challenge                                                |
+| 181       | Event Music         | Lowrider challenge                                                |
+| 182       | Event Music         | Mission passed theme / Property bought                            |
+| 183       | Event Music         | Mission passed                                                    |
+| 184       | Voice               | Voice line                                                        |
+| 185 - 314 | Radio               | Playback FM                                                       |
+| 315 - 469 | Radio               | K-ROSE                                                            |
+| 470 - 625 | Radio               | K-DST (534 Rod Stewart - *Young Hearts Be Free Tonight*)          |
+| 626 - 668 | Voice               | Voice samples                                                     |
+| 669       | Event Music         | Girlfriend date failed (*"Fuck you I won't do what you tell me"*) |
+| 670       | Event Music         | Girlfriend date success                                           |
+| 671 - 766 | Voice               | Voice lines (743 = Big Smoke's order)                             |
+| 767 - 945 | Radio               | Bounce FM                                                         |
+| 946 - 999 | Radio               | SF-UR                                                             |
+
 1002 |  | Ceilng Vent
 1009 |  | Bonnet dent
 1027 |  | Wheel of fortune clacker
